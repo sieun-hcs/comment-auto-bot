@@ -1,2 +1,3 @@
-# comment-auto-bot
-A repository for testing GitHub automation
+# Automated Comment Bot
+
+A repository to test GitHub automation for adding comments to issues.
