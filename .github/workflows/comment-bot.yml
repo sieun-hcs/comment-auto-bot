@@ -1,8 +1,9 @@
-
 name: Issue Comment Bot
 on:
   issues:
     types: [opened]
+permissions:
+  issues: write
 jobs:
   add-comment:
     runs-on: ubuntu-latest
